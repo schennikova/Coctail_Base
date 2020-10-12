@@ -1,5 +1,5 @@
 {
-  "name": "Coctail_Base",
+  "name": "CoctailBase",
   "version": "1.0.0",
   "description": "<h1>Coctktail-base</h1>",
   "main": "server.js",
